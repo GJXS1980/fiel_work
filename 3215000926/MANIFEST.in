@@ -1,0 +1,4 @@
+include requirements
+include ZPX/assets/*.png
+include ZPX/assets/*.ico
+include ZPX/templates/*.kv
