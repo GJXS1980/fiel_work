@@ -1,0 +1,4 @@
+include requirements
+include GJXS/assets/*.png
+include GJXS/assets/*.ico
+include GJXS/templates/*.kv

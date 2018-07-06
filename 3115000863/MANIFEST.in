@@ -1,0 +1,4 @@
+include requirements
+include LZF/assets/*.png
+include LZF/assets/*.ico
+include LZF/templates/*.kv
